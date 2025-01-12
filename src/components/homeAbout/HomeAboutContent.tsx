@@ -22,7 +22,7 @@ const HomeAboutContent = () => {
       <div>
         <p className="text-[#64656a] text-base tracking-wider leading-[28px] text-justify">
           At SSN Builders, our journey is defined by a relentless pursuit of top-class quality and a commitment to excellence in every project we undertake. With a vision to become pioneers in the construction industry, we continuously innovate and adapt to the latest technologies and methodologies, ensuring that our work not only meets but exceeds industry standards.
-          Our seamless services are designed to provide a hassle-free experience for our clients, from the initial consultation to the final handover. We believe that every project is unique, and we offer personalized attention to ensure that each client&apos;s specific needs and preferences are met with precision and care.
+          Our seamless services are designed to provide a hassle-free experience for our clients, from the initial consultation to the final handover. We believe that every project is unique, and we offer personalized attention to ensure that each clients specific needs and preferences are met with precision and care.
           Community focus is at the heart of our operations. We understand the importance of building not just structures, but also relationships and trust within the communities we serve. SSN Builders is here to provide unparalleled expertise. Together, let's create spaces that inspire and endure your dream home, and commercial spaces or embark on a large-scale construction project.
 
 
