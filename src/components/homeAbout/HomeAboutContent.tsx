@@ -18,7 +18,7 @@ const HomeAboutContent = () => {
           </span>{" "}
           <br />
           <span className="text-main-color">Excellence in</span> Every <br />
-          Build
+          Build Work with SSN
         </h1>
       </div>
       <div>
