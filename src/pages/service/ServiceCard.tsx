@@ -24,6 +24,7 @@ const ServiceCard: React.FC = () => {
         const response = await api.get(
           "/services"
         );
+        // console.log(response.data);
         setServices(response.data); // Set the fetched services data
         setLoading(false); // Set loading to false once data is fetched
       } catch (error) {
@@ -42,6 +43,7 @@ const ServiceCard: React.FC = () => {
   }
 
   return (
+    
     <div className="container mx-auto px-4 py-12">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
       {services.map((service: any, index: number) => (
