@@ -11,49 +11,72 @@ const CompanyDetail = () => {
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 mt-8 gap-8">
-            <div>
-              <p className="text-lg text-[#64656a] font-medium text-justify">
-                Welcome to SSN Builders, LLC, your trusted partner in
-                construction excellence. As a recently established construction
-                company operated by years of experience in construction and
-                engineering, we are driven by a passion for delivering top-notch
-                craftsmanship and outstanding service to our clients. At SSN
-                Builders, we understand that building or renovating a space is
-                more than just a project; it’s an opportunity to create
-                something exceptional. Our team of skilled professionals is
-                dedicated to turning your vision into a reality, combining
-                innovative design, quality materials, and expert craftsmanship.
-              </p>
-              <p className="text-lg text-[#64656a] font-medium text-justify pt-6">
-                We take pride in our commitment to excellence in every aspect of
-                our work. From the moment you choose SSN Builders, you can
-                expect personalized attention, clear communication, and a
-                seamless construction experience. Our team will guide you
-                through every step of the process, ensuring that your project is
-                completed on time, within budget, and to your exact
-                specifications.
-              </p>
-            </div>
-            <div>
-              <p className="text-lg text-[#64656a] font-medium text-justify">
-                Whether you’re looking to build a custom home, undertake a
-                commercial construction project, or renovate an existing space,
-                SSN Builders has the expertise and resources to exceed your
-                expectations in construction, construction management, and
-                project evaluation. Our comprehensive range of services covers
-                everything from initial planning and design to construction and
-                post-construction support.
-              </p>
-              <p className="text-lg text-[#64656a] font-medium text-justify pt-6">
-                As a locally owned and operated company, we are deeply rooted in
-                the community we serve. We take great pride in contributing to
-                the growth and development of our region through our
-                construction projects. From residential properties to commercial
-                complexes, we are committed to building spaces that enhance
-                lives and leave a lasting impact.
-              </p>
-            </div>
-          </div>
+  <div>
+    <p className="text-xl font-semibold text-[#333] text-justify">
+      Welcome to SSN Builders, LLC – Your Trusted Partner in Construction Excellence
+    </p>
+    <p className="text-lg text-[#64656a] font-medium text-justify mt-4">
+      At SSN Builders, LLC, we are committed to delivering craftsmanship and service that go beyond expectations. Backed by years of experience in construction and engineering, our recently established company is driven by a passion for creating exceptional spaces. For us, every project is more than just construction—it’s an opportunity to bring visions to life with innovative design, premium materials, and expert execution.
+    </p>
+    <p className="text-lg text-[#64656a] font-medium text-justify mt-6">
+      Our mission is defined by an unwavering pursuit of excellence and a relentless focus on quality in every aspect of our work. From custom homes to commercial complexes, renovations to large-scale projects, we combine innovative methodologies with the latest technologies to set new benchmarks in the construction industry.
+    </p>
+  </div>
+  <div>
+    <p className="text-xl font-semibold text-[#333] text-justify">
+      Why Choose SSN Builders?
+    </p>
+    <ul className="list-disc list-inside text-lg text-[#64656a] font-medium text-justify mt-4 space-y-4">
+      <li>
+        <span className="font-semibold">Personalized Attention:</span> We understand that every project is unique. That’s why we take the time to listen to your needs and preferences, ensuring that your vision is realized with precision and care.
+      </li>
+      <li>
+        <span className="font-semibold">Seamless Experience:</span> From the initial consultation to project completion, we prioritize clear communication and a hassle-free process. Our team is dedicated to guiding you through every step, ensuring your project is completed on time, within budget, and to your exact specifications.
+      </li>
+      <li>
+        <span className="font-semibold">Commitment to Quality:</span> Excellence is at the heart of everything we do. We are committed to using the finest materials, innovative designs, and expert craftsmanship to deliver results that stand the test of time.
+      </li>
+      <li>
+        <span className="font-semibold">Community Focus:</span> As a locally owned and operated company, we take pride in contributing to the growth and development of our community. Beyond building structures, we are dedicated to fostering trust and building lasting relationships within the communities we serve.
+      </li>
+    </ul>
+  </div>
+  <div>
+    <hr />
+    <p className="text-xl font-semibold text-[#333] text-justify">
+      Our Services
+    </p>
+    <p className="text-lg text-[#64656a] font-medium text-justify mt-4">
+      At SSN Builders, we offer a comprehensive range of services to meet your construction needs:
+    </p>
+    <ul className="list-disc list-inside text-lg text-[#64656a] font-medium text-justify mt-4 space-y-2">
+      <li>Custom Home Building</li>
+      <li>Commercial Construction</li>
+      <li>Renovations and Remodeling</li>
+      <li>Construction Management</li>
+      <li>Project Evaluation and Planning</li>
+      <li>Post-Construction Support</li>
+    </ul>
+  </div>
+  <div>
+    <hr />
+    <p className="text-xl font-semibold text-[#333] text-justify">
+      Building Trust, One Project at a Time
+    </p>
+    <p className="text-lg text-[#64656a] font-medium text-justify mt-4">
+      At SSN Builders, we are more than just a construction company. We are a team of dedicated professionals who believe in creating spaces that inspire and endure. Every project we undertake reflects our dedication to innovation, precision, and quality.
+    </p>
+    <p className="text-lg text-[#64656a] font-medium text-justify mt-6">
+      Join us on our journey as we redefine construction excellence, one project at a time. Thank you for considering SSN Builders. We look forward to working with you and transforming your vision into a lasting reality.
+    </p>
+    <p className="text-lg text-[#64656a] font-medium text-justify mt-6">
+      <strong>SSN Builders, LLC</strong>
+      <br />
+      Building Dreams. Inspiring Excellence.
+    </p>
+  </div>
+</div>
+
         </div>
       </div>
     </>
